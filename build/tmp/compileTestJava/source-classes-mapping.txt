@@ -1,0 +1,16 @@
+org/cap/test/bankapp/BankAppTestCase.java
+ org.cap.test.bankapp.BankAppTestCase
+org/cap/test/bankapp/ReportCategory.java
+ org.cap.test.bankapp.ReportCategory
+org/cap/test/bankapp/MyCategory.java
+ org.cap.test.bankapp.MyCategory
+org/cap/test/bankapp/SampleTestCase.java
+ org.cap.test.bankapp.SampleTestCase
+org/cap/test/bankapp/LoginCategory.java
+ org.cap.test.bankapp.LoginCategory
+org/cap/test/bankapp/BankAppMocitoTestCase.java
+ org.cap.test.bankapp.BankAppMocitoTestCase
+org/cap/test/bankapp/ParameterizedTestCase.java
+ org.cap.test.bankapp.ParameterizedTestCase
+org/cap/test/bankapp/BankAppSuite.java
+ org.cap.test.bankapp.BankAppSuite
